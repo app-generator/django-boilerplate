@@ -3,7 +3,7 @@
 **Open-Source Web App** coded in **Django Framework** on top of **Argon Dashboard** design. **Features**:
 
 - SQLite, Django native ORM
-- Modular 
+- Modular design
 - Session-Based authentication (via **flask_login**)
 - Forms validation
 - UI Kit: **Argon Dashboard** provided by **Creative-Tim**
