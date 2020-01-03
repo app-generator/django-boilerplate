@@ -4,7 +4,7 @@
 
 - SQLite, Django native ORM
 - Modular design
-- Session-Based authentication (via **flask_login**)
+- Session-Based authentication (login, register)
 - Forms validation
 - UI Kit: **Argon Dashboard** provided by **Creative-Tim**
 
