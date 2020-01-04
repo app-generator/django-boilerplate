@@ -30,10 +30,11 @@ $ # virtualenv --no-site-packages env
 $ # .\env\Scripts\activate
 $ 
 $ # Install modules
-$ # SQLIte version 
+$ # SQLIte version
 $ pip3 install -r requirements.txt
 $
 $ # Create tables
+$ python manage.py makemigrations
 $ python manage.py migrate
 $
 $ # Start the application (development mode)
